@@ -1,0 +1,9 @@
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\bin\Debug\netcoreapp2.2\SynapseMiNET.deps.json
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\bin\Debug\netcoreapp2.2\SynapseMiNET.dll
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\obj\Debug\netcoreapp2.2\SynapseMiNET.csprojAssemblyReference.cache
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\obj\Debug\netcoreapp2.2\SynapseMiNET.csproj.CoreCompileInputs.cache
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\obj\Debug\netcoreapp2.2\SynapseMiNET.AssemblyInfoInputs.cache
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\obj\Debug\netcoreapp2.2\SynapseMiNET.AssemblyInfo.cs
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\bin\Debug\netcoreapp2.2\SynapseMiNET.pdb
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\obj\Debug\netcoreapp2.2\SynapseMiNET.dll
+C:\Users\edffewdrewsdvfavfear\Desktop\SynapseMiNET\SynapseMiNET\obj\Debug\netcoreapp2.2\SynapseMiNET.pdb
