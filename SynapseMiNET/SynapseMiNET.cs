@@ -142,9 +142,8 @@ namespace SynapseMiNET
             Array.Reverse(lenBytes);
             _client.Send(lenBytes);
 
-            var liste = new List<byte>(packetBuffer);
-            liste.RemoveAt(0);
-            _client.Send(liste.ToArray());
+            packetBuffer.Skip(1);
+            _client.Send(packetBuffer);
 
         }
 
