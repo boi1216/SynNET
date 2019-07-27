@@ -1,7 +1,7 @@
 # SynNET
 Synapse client implementation for MiNET.
 
-**Note:* this product is not ready for production use and lacks many features has to be done yet.
+**Note:** this product is not ready for production use and lacks many features has to be done yet.
 
 TODO:
 
