@@ -14,7 +14,7 @@ using MiNET.Utils;
 
 namespace SynapseMiNET
 {
-    [Plugin(PluginName = "SynapseMiNET", Description = "Synapse client for MiNET with Nemisys protocol support", PluginVersion = "1.0", Author = "Minetox")]
+    [Plugin(PluginName = "SynapseMiNET", Description = "Synapse client for MiNET with Nemisys protocol support", PluginVersion = "1.0", Author = "boi")]
     public class Class1 : Plugin
     {
 
